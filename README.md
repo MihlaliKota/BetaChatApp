@@ -26,9 +26,9 @@ The React Chat App provides users with a real-time communication platform where 
 To run the React Chat App on your local machine, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the `backend` directory and run `npm install` to install backend dependencies.
+2. Navigate to the `server` directory and run `npm install` to install backend dependencies.
 3. Start the backend server by running `npm start`.
-4. Navigate to the `frontend` directory and run `npm install` to install frontend dependencies.
+4. Navigate to the `client` directory and run `npm install` to install frontend dependencies.
 5. Start the React development server by running `npm start`.
 6. Access the chat app in your web browser at `http://localhost:3000`.
 
